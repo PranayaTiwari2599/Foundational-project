@@ -11,7 +11,7 @@ public class booking {
 	{
 	String url= "jdbc:mysql://localhost:3308/HomeService";
 	String username="root";
-	String pass="Pranay@2599";
+	String pass="1234567";
 	con = DriverManager.getConnection(url,username,pass);
 	}
 	catch(Exception e)
